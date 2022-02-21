@@ -1,0 +1,41 @@
+body {
+    margin-left: 225px;
+}
+
+#btnl {
+    padding: 10px;
+    border-radius: 30px;
+    background-color: lime;
+}
+
+#btnr {
+    padding: 10px;
+    background-color: lime;
+    border-radius: 30px;
+}
+
+img {
+    width: 958px;
+    height: 578px;
+}
+
+.wrapper {
+    margin-left: 100px;
+}
+
+.image-banner {
+    position: relative;
+}
+
+.image-banner img {
+    display: block;
+}
+
+.banner-description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .65);
+    padding: 15px 25px;
+}
